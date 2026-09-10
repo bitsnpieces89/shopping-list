@@ -1,6 +1,6 @@
 // Bump this version string whenever you edit index.html,
 // otherwise phones keep serving the old cached copy.
-const CACHE = 'shoplist-v1';
+const CACHE = 'shoplist-v2';
 
 const ASSETS = [
   './',
